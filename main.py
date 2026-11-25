@@ -6,7 +6,7 @@ to /output/entry.txt, then reads it back to verify it.
 
 import os
 
-WORD = "Overlord"
+WORD = "Micromanager"
 
 OUTPUT_PATH = "/output/entry.txt"
 
